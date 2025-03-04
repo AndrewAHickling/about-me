@@ -166,9 +166,6 @@ header {
         display: inline-block;
     }
 
-    .vtimeline-content li{
-        margin-bottom: 0.5rem;
-    }
 
     a {
         display: block;
@@ -536,6 +533,10 @@ footer {
         color: $text;
         font-size: 0.9em;
         margin: 0;
+    }
+
+    li{
+        margin-bottom: 0.5rem;
     }
 }
 
